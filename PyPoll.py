@@ -31,17 +31,18 @@ with open(file_to_load) as election_data:
         total_votes +=1
         # Print the candidate name from each row.
         candidate_name = row[2]
-        # If the candidate does not match any existing candidate...
         
+        # If the candidate does not match any existing candidate...
         if candidate_name not in candidate_options:
             # Add it to the list of candidates.
             candidate_options.append(candidate_name)
             # Begin tracking that candidate's vote count.
             candidate_votes[candidate_name] = 0
+        # Add a vote to that candidate's count.
+        candidate_votes[candidate_name] += 1
 
-# Print the candidate list.
-print(candidate_options)
 
-# Print the total votes.
-print(total_votes)
+# Print the candidate vote dictionary.
+print(candidate_votes)
+
 
