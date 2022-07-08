@@ -1,5 +1,6 @@
+
 # Election_Analysis
-Analysis of Elections Result
+## Analysis of Elections Result
 ## Project Overview
 A Colorado Board of Elections employee has given the following tasks to complete the election audit of a recent local congressional election using a set of programmatic tools of Python, Visual Studio Code, and Git. We have to determine the total number of votes cast in the election.
 
@@ -57,7 +58,10 @@ Determine the winner of the election based on popular vote.
 Colorado saw three counties tally up to 369,711 votes. The biggest of the counties with a 82.8% was Denver. We processed the votes for three candidates of Charles, Diana, and Raymon. With 73.8% of the votes towards Diana DeGette, that is 272,892 of the 369,711 total votes.
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> 29f026dcb5ac27bcde18bbc21eea7935cb197f67
