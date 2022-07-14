@@ -7,6 +7,7 @@ A Colorado Board of Elections employee has given the following tasks to complete
 I have created a python script and would read and write data, performed calculations on the counts, and used loops and conditional statements to report our analysis.
 ## Results:
 
+
 How many votes were cast in this congressional election?
 Total Votes: 369,711
 
@@ -56,7 +57,10 @@ Determine the winner of the election based on popular vote.
 
 ## Challenge summary
 Colorado saw three counties tally up to 369,711 votes. The biggest of the counties with a 82.8% was Denver. We processed the votes for three candidates of Charles, Diana, and Raymon. With 73.8% of the votes towards Diana DeGette, that is 272,892 of the 369,711 total votes.
+## Election-Audit Summary
+The election commission may wish to consider some additional functionality to the Python script used to develop this audit. For example, it might be interesting to discover the winning candidate by county. By simply adding an additional "if" statement to the current code, the number of candidates per county could be tallied, providing deeper insight into the voting patterns within a given county. It would also be interesting to find voter turnout by polling location. A polling location column would need to be added to the election_results_csv file, but the ability to drill deeply into polling locations would provide information on voter volume, and may assist in planning future voting locations based on the analysis. For example, the analysis may reveal that some polling locations are under utilized, while others have more voter participation than staff can manage, which would allow a more data-driven polling plan during future elections.
 
+The provided Python coded audit application is robust and can be used on a much wider scale. The data provided for this audit includes three counties in the state, but the audit program can accomodate much larger data sets, and could be expanded to all counties in Colorado. I propose the election committee adopt this simple analysis tool as the state-wide solution for congressional election audits. Though simplistic in design, the application is powerful, customizable, repeatable and simple to execute.
 
 <<<<<<< HEAD
 
