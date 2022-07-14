@@ -1,3 +1,4 @@
+<img width="307" alt="Screen Shot 2022-07-13 at 10 30 44 PM" src="https://user-images.githubusercontent.com/107584891/178901635-d9df4c0a-cca1-4069-a81d-26410f5d57fb.png">
 
 # Election_Analysis
 ## Analysis of Elections Result
@@ -10,6 +11,7 @@ I have created a python script and would read and write data, performed calculat
 
 How many votes were cast in this congressional election?
 Total Votes: 369,711
+
 
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 County Votes:
@@ -62,10 +64,4 @@ The election commission may wish to consider some additional functionality to th
 
 The provided Python coded audit application is robust and can be used on a much wider scale. The data provided for this audit includes three counties in the state, but the audit program can accomodate much larger data sets, and could be expanded to all counties in Colorado. I propose the election committee adopt this simple analysis tool as the state-wide solution for congressional election audits. Though simplistic in design, the application is powerful, customizable, repeatable and simple to execute.
 
-<<<<<<< HEAD
 
-
-
-
-=======
->>>>>>> 29f026dcb5ac27bcde18bbc21eea7935cb197f67
