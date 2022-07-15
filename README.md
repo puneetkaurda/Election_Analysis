@@ -28,14 +28,12 @@ Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
 
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
+
 ## Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
+<img width="219" alt="Screen Shot 2022-07-15 at 8 48 48 AM" src="https://user-images.githubusercontent.com/107584891/179248171-3be0b109-011b-4649-9f2c-c601a6a67b22.png">
+
 
 ## Resources
 Software: Python 3.7.7, Visual Studio Code, 1.47.3, Git 2.27
